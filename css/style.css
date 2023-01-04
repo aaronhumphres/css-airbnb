@@ -1,12 +1,9 @@
-* {
-  margin: 100;
-  padding: 0;
-  align: center;
-}
+
 
 body {
   color: gray;
   align: center;
+  text-align: center;
 }
 
 h1 {
@@ -20,7 +17,8 @@ h2 {
 
 .img {
   align: center;
-  margin: 100px;
+  margin: 100px auto;
+  display: block;
   border: 100px;
   width: 25%;
 
